@@ -4,7 +4,7 @@ Project 1: Hospitality Data Analysis
 This project analyzes hospitality (hotel) booking data using Python, Pandas, and Jupyter Notebook inside PyCharm. The goal is to clean, process, and analyze booking data to understand trends such as revenue, occupancy, room categories, and guest booking behavior.
 📁 Project Structure
 Project 1 Hospitality/
-│-- Project 1 Hospitality.ipynb   # Main Jupyter Notebook
+│-- Project 1 Hospitality.ipynb https://github.com/vijayparushuram/Hospitality-Data-Analysis/blob/main/Project%201%20Hospitality.ipynb  # Main Jupyter Notebook
 │-- datasets/                     # Folder containing input data files
 │   ├── fact_bookings.csv
 │   ├── ... (other datasets)
