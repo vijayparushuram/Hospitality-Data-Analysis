@@ -135,12 +135,3 @@ Insights from this project can help hospitality businesses:
 
 ---
 
-## 🔖 Keywords (ATS Friendly)
-
-Data Analytics, Hospitality Analytics, Hotel Booking Analysis, Python, Pandas, Jupyter Notebook, PyCharm, Exploratory Data Analysis, Data Visualization, Revenue Analysis, Occupancy Forecasting, KPI Analysis, ETL, Descriptive Statistics, Trend Analysis, Business Intelligence, Data-Driven Decision Making
-
----
-
-## 📬 Contact
-
-For feedback, collaboration, or opportunities, feel free to connect via GitHub or LinkedIn.
